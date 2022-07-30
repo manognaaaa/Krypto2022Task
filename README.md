@@ -2,31 +2,30 @@
 
 Application functionalities include:
   1. Login
-  ![image](https://user-images.githubusercontent.com/91324495/181880728-b89f3b1d-2ea2-4d8b-a662-e9743668d122.png)
+  ![image](https://user-images.githubusercontent.com/91324495/181887682-38399d1a-d6cf-4f10-98ef-ab84025095a0.png)
   
   2. Register/Sign-up
-  ![image](https://user-images.githubusercontent.com/91324495/181880922-ac6ee570-8e9e-4288-9be0-01d3811feb94.png)
+  ![image](https://user-images.githubusercontent.com/91324495/181887856-ea416e9a-1c0c-41ba-a5f7-d14d527a1b34.png)
   
   3. Categories
-  ![image](https://user-images.githubusercontent.com/91324495/181881592-940e7028-687b-4b0b-b26e-0279fc81b112.png)
+  ![image](https://user-images.githubusercontent.com/91324495/181887436-b907f24e-3129-4bbc-ad20-557128c239d7.png)
   
   4. Products page
-  ![image](https://user-images.githubusercontent.com/91324495/181881979-9aa88880-e345-45e3-b777-2a601b0d1122.png)
+  ![image](https://user-images.githubusercontent.com/91324495/181886110-20795796-a40d-4731-a8ee-47e906b26faa.png)
 
   5. Wishlist
-  ![image](https://user-images.githubusercontent.com/91324495/181882298-d9e57a6d-ffdc-46b4-9d2e-05ac6c3caffb.png)
+  ![image](https://user-images.githubusercontent.com/91324495/181886965-a1533de6-0b91-4572-8817-9d15cc54026d.png)
 
   6. Cart
-  ![image](https://user-images.githubusercontent.com/91324495/181882530-6075cbe9-5325-4114-9af0-60118c5cbfec.png)
-
+  ![image](https://user-images.githubusercontent.com/91324495/181886334-0318716e-afaa-4e87-bc46-2eb2d32d90bd.png)
+  
   7. Customer feedback
-  ![image](https://user-images.githubusercontent.com/91324495/181882818-bd7c300b-b9e1-4bed-9484-43aa052fd2a7.png)
+  ![image](https://user-images.githubusercontent.com/91324495/181885335-f1f4dbd4-f6d5-4b48-a6d0-abc909b04fe9.png)
 
   
 The project currently doesn't include:
   1. Filter and sort options in the products page
   2. Product suggestions based on previous orders
-  3. Quick add option to wishlist
   The above mentioned features are possible improvements to the submission
   
 If I were given more time I would wish to:
