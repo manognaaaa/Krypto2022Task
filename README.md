@@ -29,5 +29,5 @@ The project currently doesn't include:
   The above mentioned features are possible improvements to the submission
   
 If I were given more time I would wish to:
-  1. Include animations that are effecient and swift
+  1. Include animations that are efficient and swift
   2. Make the UI/UX more user friendly and better looking
